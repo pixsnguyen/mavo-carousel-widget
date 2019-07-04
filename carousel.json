@@ -1,0 +1,7 @@
+{
+	"maxCount": 5,
+	"image": [
+		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@8b93af4a5b20dfd4fbf5d849a78920f6bef078bb/images/cropped.jpg"
+	],
+	"delay": 5
+}
