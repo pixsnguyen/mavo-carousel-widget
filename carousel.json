@@ -1,7 +1,8 @@
 {
 	"maxCount": 5,
 	"image": [
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@8b93af4a5b20dfd4fbf5d849a78920f6bef078bb/images/cropped.jpg"
+		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@8b93af4a5b20dfd4fbf5d849a78920f6bef078bb/images/cropped.jpg",
+		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@4891ddf6f855f01e68209fb851c697e1c711f7ca/images/bg.jpg"
 	],
 	"delay": 5
 }
