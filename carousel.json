@@ -1,11 +1,21 @@
 {
 	"maxCount": 6,
 	"image": [
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@639d1d15251b0f232905a066d8ea2508a8864cc1/images/redcharlie-k2zWqv_yfNM-unsplash.jpg",
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@726faacd0d22d2d5301414aeb88218e7b057ac7b/images/vincent-van-zalinge-vUNQaTtZeOo-unsplash.jpg",
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@89538f0cab7dc8dc0d96d3ff9584934d4c3ce203/images/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg",
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@f7607176c52c4c4b4130c16712105c40d2579431/images/sylvain-guiheneuc-hIMdKs_0cSE-unsplash.jpg",
-		"https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@cd494d7205e444a00e580e3bfd7cfdd507731b0f/images/westboundary-photography-chris-gill-lBL7rSRaNGs-unsplash.jpg"
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@639d1d15251b0f232905a066d8ea2508a8864cc1/images/redcharlie-k2zWqv_yfNM-unsplash.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@726faacd0d22d2d5301414aeb88218e7b057ac7b/images/vincent-van-zalinge-vUNQaTtZeOo-unsplash.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@89538f0cab7dc8dc0d96d3ff9584934d4c3ce203/images/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@f7607176c52c4c4b4130c16712105c40d2579431/images/sylvain-guiheneuc-hIMdKs_0cSE-unsplash.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@cd494d7205e444a00e580e3bfd7cfdd507731b0f/images/westboundary-photography-chris-gill-lBL7rSRaNGs-unsplash.jpg"
+		}
 	],
 	"delay": 5
 }
