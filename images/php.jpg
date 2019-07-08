@@ -2,6 +2,11 @@
 	"maxCount": "5",
 	"delay": "5",
 	"image": [
-		{}
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@92527198911eff6bd3cc3dbdffa70e75d8fa6b1a/images/images/29fdeab0-bd7c-46ef-b6d0-6a5d54fd481b"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@f6bcdf88fd9c4dfed2a08555f6b49c818f7078aa/images/images/502d8c23-d9bc-42e2-b348-f259d10c2ef0"
+		}
 	]
 }
